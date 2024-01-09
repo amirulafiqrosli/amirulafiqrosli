@@ -7,9 +7,9 @@
 
 - Data Enthusiast with data analysis and basic data sciences knowledges.
 
-- I’m currently working at **Consurv Technic Sdn. Bhd. as Data Programmer**
+- I’m currently working at **Consurv Technic Sdn. Bhd. as Data Programmer.**
 
-- I’m currently learning **data analysis and data sciences**
+- I’m currently learning **data analysis and data sciences.**
 
 <h3 align="left">Projects Portfolio:</h3>  
 
