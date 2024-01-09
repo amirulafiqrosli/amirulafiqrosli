@@ -25,7 +25,7 @@ Welcome to my project portfolio, where I showcase my [projects](https://github.c
   
 - Machine Learning: Regression, Classification
 
-  <h3 align="left">Connected with me:</h3>
+<h3 align="left">Connected with me:</h3>
 
 - Reach me: **amirulafiqrosli01@gmail.com**
 - [LinkedIn](https://www.linkedin.com/in/amirul-afiq-rosli/)
