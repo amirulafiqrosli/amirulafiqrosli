@@ -19,7 +19,7 @@ Welcome to my project portfolio, where I showcase my [projects](https://github.c
 
 - Language: SQL, Python
   
-- Database: Microsift SQL, PostgreSQL, MySQL
+- Database: Microsoft SQL, PostgreSQL, MySQL
   
 - Visualization: Tableau, Power BI
   
