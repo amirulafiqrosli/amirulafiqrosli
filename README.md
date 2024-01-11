@@ -23,7 +23,7 @@ Welcome to my project portfolio, where I showcase my [projects](https://github.c
   
 - Visualization: Tableau, Power BI
   
-- Machine Learning: Regression, Classification
+- Machine Learning: Regression, Classification, and Clustering
 
 <h3 align="left">Connected with me:</h3>
 
